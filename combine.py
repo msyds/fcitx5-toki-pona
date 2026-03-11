@@ -40,6 +40,7 @@ def make_conf(name, filepath):
 
     a = f"""[InputMethod]
 Name=toki pona - sitelen Kansi({name})
+Icon=fcitx5-toki-pona
 LangCode=toki pona
 Addon=table
 Configurable=True
